@@ -21,6 +21,7 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
-, "src/pages/.tsx", "AppRoute.tsx"  ]
-}
+    "src",
+    "AppRoute.tsx"
+  ]
+  }
